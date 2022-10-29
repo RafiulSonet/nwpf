@@ -12,13 +12,18 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 300px;
 }
+
+
 .a{
+    
     padding-left: 150px;
     padding-top: 80px;
     width: 50%;
 }
 .a img{
+    
     padding-left: 200px;
     padding-top: 50px;
     width: 40%;
@@ -34,9 +39,28 @@ section{
     border-radius: 20px;
 }
 .hire{
-    color:lawngreen;
+    color:rgb(3, 26, 31);
 }
-section{
+.page1{
+    
     background-image: url(img/cvv.png);
     background-repeat: no-repeat;
 }
+.page2{
+    background-image: url(img/pp2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.b{
+    
+    padding-left: 150px;
+    padding-top: 100px;
+    width: 50%;
+}
+.b img{
+    
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 40%;
+    
