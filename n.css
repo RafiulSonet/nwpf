@@ -1,3 +1,38 @@
+body{
+    margin: 0;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
 h1{
-    color: rgb(192, 52, 180);
+    color: rgb(29, 4, 27);
+}
+.h1c{
+    color: rgb(99, 21, 114);
+}
+section{
+    display: flex;
+}
+.a{
+    padding-left: 150px;
+    padding-top: 80px;
+    width: 50%;
+}
+.a img{
+    padding-left: 200px;
+    padding-top: 50px;
+    width: 40%;
+    
+}
+.hbutton{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    background-image: linear-gradient(orange, rgb(233, 95, 233));
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+section{
+    background-image: url(img/cvv.png);
+    background-repeat: no-repeat;
 }
