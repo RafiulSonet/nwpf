@@ -26,11 +26,15 @@ section{
 }
 .hbutton{
     text-decoration: none;
+   
     font-family: 'Times New Roman', Times, serif;
-    font-weight: 400;
+    font-weight: 1000;
     background-image: linear-gradient(orange, rgb(233, 95, 233));
     padding: 10px 40px;
-    border-radius: 10px;
+    border-radius: 20px;
+}
+.hire{
+    color:lawngreen;
 }
 section{
     background-image: url(img/cvv.png);
